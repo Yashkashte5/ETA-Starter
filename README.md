@@ -40,3 +40,5 @@ That will rebuild `train.parquet` / `dev.parquet`, retrain the full engineered m
 - `analysis/train_full_engineered.py` — trains the final model
 - `analysis/train_sample_engineered.py` — quick prototype on the 1M sample
 - `Dockerfile` — packages the submission for scoring
+
+Total time spent on this challenge: 2hrs
